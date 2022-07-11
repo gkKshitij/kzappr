@@ -1,10 +1,10 @@
 {
   "name": "kzappr",
   "version": "1.0.1",
-  "description": "An example app for the Zapier platform.",
-  "repository": "zapier/zapier-platform-example-app-resource",
+  "description": "An example test app for the Zapier platform.",
+  "repository": "https://github.com/gkKshitij/kzappr",
   "homepage": "https://zapier.com/",
-  "author": "Bryan Helmig <bryan@zapier.com>",
+  "author": "KGK",
   "license": "BSD-3-Clause",
   "main": "index.js",
   "scripts": {
